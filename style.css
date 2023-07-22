@@ -12,3 +12,12 @@ body {
     text-align: right;
     margin-right: 20px;
 }
+
+.green-gradient {
+    background: linear-gradient(#FFFFFF 60%, #2DBE81);
+}
+
+.slanted {
+    height: 500px;
+    clip-path: polygon(0 0, 100% 0, 100% 85%, 0 100%);
+}
