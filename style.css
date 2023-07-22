@@ -1,0 +1,15 @@
+body {
+    font-family: 'Ubuntu Mono';
+}
+
+#top-banner {
+    background-color: #8CE0DB;
+    height: 80px;
+    position: absolute;
+    width: 100%;
+}
+
+#top-banner h1 {
+    text-align: right;
+    margin-right: 20px;
+}
