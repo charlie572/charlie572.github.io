@@ -31,6 +31,24 @@ body {
     column-gap: 10px;
 }
 
+.github-link {
+    float: right;
+    text-decoration: none;
+    color: black;
+    display: flex;
+    flex-direction: row;
+    column-gap: 10px;
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 5px;
+    height: 30px;
+}
+
+.github-link img {
+    max-width: 20px;
+    max-height: 20px;
+}
+
 /* angled sections */
 
 .odd-section {
