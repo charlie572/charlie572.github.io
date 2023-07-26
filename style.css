@@ -2,10 +2,8 @@ body {
     font-family: 'Ubuntu Mono' !important;
 }
 
-#top-banner {
+.my-navbar {
     background-color: #8CE0DB;
-    height: 80px;
-    width: 100%;
 }
 
 #top-banner h1 {
