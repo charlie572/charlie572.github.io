@@ -17,8 +17,17 @@ body {
     background-color: #D9D9D9;
     border-radius: 20px;
     box-shadow: inset 0 0 5px black;
-    padding: 5px;
-    padding-bottom: 20px;
+    padding: 20px;
+    max-width: 500px;
+}
+
+.project-container {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: center;
+    row-gap: 10px;
+    column-gap: 10px;
 }
 
 /* angled sections */
