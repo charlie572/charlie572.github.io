@@ -11,6 +11,8 @@ body {
     margin-right: 20px;
 }
 
+/* projects */
+
 .project-div {
     background-color: #D9D9D9;
     border-radius: 20px;
@@ -45,6 +47,30 @@ body {
 .github-link img {
     max-width: 20px;
     max-height: 20px;
+}
+
+/* contacts */
+
+.contacts {
+    display: flex;
+    flex-direction: row;
+    justify-items: center;
+    column-gap: 10px;
+    padding: 5px;
+    height: 30px;
+    font-size: 1.5em;
+    padding: 20px;
+}
+
+.contact {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.contact img {
+    max-width: 50px;
+    max-height: 50px;
 }
 
 /* angled sections */
